@@ -6,10 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/adnaan0x" target="blank"><img src="https://img.shields.io/twitter/follow/adnaan0x?logo=twitter&style=for-the-badge" alt="adnaan0x" /></a> </p>
 
-- 🔭 I’m currently working on **Speech Recognition**
-
-- 🌱 I’m currently learning **Tensorflow**
-
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **adnanmuhammedadnancp@gmail.com**
