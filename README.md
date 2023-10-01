@@ -15,6 +15,5 @@
 <a href="https://stackoverflow.com/users/21755530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21755530" height="50" width="50" /></a>
 <a href="https://kaggle.com/adnanmohd099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adnanmohd099" height="50" width="50" /></a>
 <a href="https://www.hackerrank.com/adnan_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adnan_99" height="50" width="50" /></a>
-<a href="https://www.leetcode.com/adnan_org" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adnan_org" height="50" width="50" /></a>
 </p>
 
