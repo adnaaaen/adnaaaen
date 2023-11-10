@@ -1,24 +1,16 @@
-<h1 align="center">Hi 👋, I'm Adnan</h1>
-<h3 align="center">Data Analyst - Intern</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adaaaen&label=Profile%20views&color=0e75b6&style=flat" alt="adaaaen" /> </p>
-
-<p align="left"> <a href="https://twitter.com/adnaaaen" target="blank"><img src="https://img.shields.io/twitter/follow/adnaaaen?logo=twitter&style=for-the-badge" alt="adnaaaen" /></a> </p>
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **adnanmuhammedadnancp@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adnaaaen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adnaaaen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammedadnancp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedadnancp" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adnan_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adnan_99" height="30" width="40" /></a>
-</p>
+# Hai, Am Adnan<br>Data Anaylst - Intern <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adaaaen&show_icons=true&locale=en&layout=compact" alt="adaaaen" /></p>
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedadnancp) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adaaaen&show_icons=true&locale=en" alt="adaaaen" /></p>
+### 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adaaaen&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adaaaen&theme=blueberry&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adaaaen&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adaaaen&" alt="adaaaen" /></p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=adaaaen&icon=5&color=6)](https://visitcount.itsvg.in)
