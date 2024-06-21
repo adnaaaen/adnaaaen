@@ -15,7 +15,4 @@
 </div>
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adnaaaen&locale=en&mode=daily&theme=react&hide_border=true&border_radius=9&order=3" height="220" alt="streak graph"  />
-</div>
 
