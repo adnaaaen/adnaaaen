@@ -14,5 +14,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%2325CC52.svg?logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:adnanmuhammedadnancp@gmail.com)
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnaaaen&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="230" alt="activity-graph graph"  />
+</div>
+
 
 
