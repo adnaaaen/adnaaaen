@@ -2,7 +2,7 @@
 ###
 <div align="center">
   
-  [![Static Badge](https://img.shields.io/badge/click%20to%20view%20resume-resume?style=social&logo=ReadMe&logoColor=black)](https://drive.google.com/file/d/1DjvMi2HVOOGd7ENPETPfHydnAEOe3ba-/view?usp=sharing)
+  [![Static Badge](https://img.shields.io/badge/view%20resume-resume?style=social&logo=ReadMe&logoColor=black)](https://drive.google.com/file/d/1DjvMi2HVOOGd7ENPETPfHydnAEOe3ba-/view?usp=sharing)
 </div>
 
 
