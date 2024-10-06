@@ -1,16 +1,14 @@
 
-###
-<div align="center">
+<div>
+    
+   > I'm Adnan, diving into **AI**, **Data Science**, and **Machine Learning** while pursuing my **BCA**. Passionate about turning data into intelligent models and impactful solutions.
+</div>
+
+<div>
   
-  [![Static Badge](https://img.shields.io/badge/resume-resume?style=social&logo=ReadMe&logoColor=black)](https://drive.google.com/file/d/1iwRzbGKuRFei9YIAvKCFHEZ2cIAFZrOM/view?usp=drive_link)
-</div>
-
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/adnaaaen) 
-</div>
-
+  <!-- <h4> Found me around the web: </h4> -->
+  💼 Sharing Updates on <a href="https://www.linkedin.com/in/adnaaaen/">Linkedin </a> 
+  </div>
 
 
 
