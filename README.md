@@ -16,7 +16,8 @@
   
 <div align='center'>
 
-[![Collaboration Badge](https://img.shields.io/badge/Got_a_cool_AI_project%3F-I’m_always_up_for_collaboration!-blue?style=for-the-badge&logo=github)](mailto:adnanmuhammedadnancp@gmail.com)
+[![Collaboration Badge](https://img.shields.io/badge/Got_a_cool_AI_project%3F-I’m_always_up_for_collaboration!-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](mailto:your_email@example.com)
+
 
 </div>
 
