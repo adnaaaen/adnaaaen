@@ -1,10 +1,10 @@
 
 <div>
     <h3>    
-    Data Enthusiast | Aspiring ML Engineer 
+    Aspiring ML Engineer 
     </h3> 
 
-   > I'm Adnan, diving into **AI**, **Data Science**, and **Machine Learning** while pursuing my **BCA**. Passionate about turning data into intelligent models and impactful solutions.
+   > I'm Adnan, Passionate about turning data into intelligent models and impactful solutions.
 </div>
 
 <div>
